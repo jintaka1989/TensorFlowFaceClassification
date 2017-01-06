@@ -1,0 +1,6 @@
+# ignore jpeg because these are large
+*.jpg
+*.jpeg
+test.py
+*.pyc
+tmp
