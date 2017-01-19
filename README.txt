@@ -73,7 +73,7 @@ data_set/test003.jpeg 2
 data_set/test004.jpeg 3
 ---------------------------
   −test.txt
-    ・you have to write the location path of train data_set in this in the same way as "train.txt"
+    ・you have to write the location path of test data_set in this in the same way as "train.txt"
 
 ■read_data.py
   To run this, you can get "models/model.ckpt". That ckpt file could be used to "use_model.py"
